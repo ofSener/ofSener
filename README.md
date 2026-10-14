@@ -14,7 +14,7 @@ Most of my professional work lives in private repos. Public highlights:
 | [is-bitnet-good-in-Turkish](https://github.com/ofSener/is-bitnet-good-in-Turkish) | Evaluating a 1-bit LLM (BitNet b1.58) on Turkish |
 | [Kolmogorov AI-text detection](https://github.com/ofSener/Grad-Project-1-Kolomogrov-Complexity) | Graduation project: AI vs human text via compression |
 | [cloud-resume](https://github.com/ofSener/cloud-resume) | Serverless resume on AWS |
-| [Multi-threaded chat](https://github.com/ofSener/Multi_threaded_Chat_Server_Client) · [mini-shell](https://github.com/ofSener/mini-shell) | Systems programming in C |
+| [Multi-threaded chat & file server](https://github.com/ofSener/multithreaded-chat-file-server) · [mini-shell](https://github.com/ofSener/mini-shell) | Systems programming in C |
 
 **Stack:** C# / .NET (ASP.NET Core) · Go · Python · C/C++ · React · MySQL · Redis · Azure DevOps CI/CD · Cloudflare · Claude / LLM APIs
 
